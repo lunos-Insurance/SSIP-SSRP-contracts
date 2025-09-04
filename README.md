@@ -1,6 +1,6 @@
 # Readme
 
-This repository contains outdated contract for Lunos. The contracts presented here are a mix of Uno v1 and v2.
+This repository contains outdated contract for Lunos. The contracts presented here are a mix of Uno v1 and v2 and are deployed on Ethereum(ETH), BNB Smart Chain(BSC) and Rollux (Syscoin L2).
 
 Before deploying any new pools you should check for the current version of the capital agent available on the required chain.
 
